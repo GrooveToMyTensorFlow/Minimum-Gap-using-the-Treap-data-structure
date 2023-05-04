@@ -1,5 +1,3 @@
-﻿// Dharamraj Patel, amber ahmed, rocky sharaf
-// 3020 assignment 2 part c
 using System;
 using System.Collections.Generic;
 using System.Linq;
